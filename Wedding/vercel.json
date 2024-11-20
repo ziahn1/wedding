@@ -1,6 +1,6 @@
 {
     "routes": [
-      { "src": "/", "dest": "Wedding/Pages/HTML_PAGES/index.html" }
+      { "src": "/", "dest": "/Pages/HTML_PAGES/Home.html" }
     ]
   }
   
