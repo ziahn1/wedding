@@ -1,6 +1,0 @@
-{
-    "routes": [
-      { "src": "/", "dest": "/Pages/HTML_PAGES/Home.html" }
-    ]
-  }
-  
